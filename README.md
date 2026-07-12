@@ -77,9 +77,3 @@ If you're debugging a production issue, jump directly to the relevant topic.
 The book is designed to support all three learning styles.
 
 ---
-
-# Chapter 0
-
-# Java Foundations – Rebuilding the Mental Model
-
-> "Before understanding how Java solves complex problems, it's worth remembering the problems Java was created to solve."
